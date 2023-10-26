@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi :Membuat program melihat kepribadian seseorang dari warna sesuai ketentuan.
  */
 public class Latihan29 {
 
